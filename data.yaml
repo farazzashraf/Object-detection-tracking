@@ -1,0 +1,5 @@
+train: C:/Users/FARAZ/Desktop/Projects/Computer-Vision/mall_dataset/train/
+val: ../mall_dataset/val/
+
+nc: 1  # Number of classes
+names: ['person']  # Class names
